@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-face-luxand",
+  "version": "0.0.1",
+  "description": "Face SDK lucand",
+  "cordova": {
+    "id": "com.luxand",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Doumbia Mahamadou",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianoezequiel/cordova-plugin-face-luxand.git"
+  },
+  "bugs": {
+    "url": "https://github.com/julianoezequiel/cordova-plugin-face-luxand/issues"
+  },
+  "homepage": "https://github.com/julianoezequiel/cordova-plugin-face-luxand#readme"
+}
